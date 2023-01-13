@@ -7,6 +7,7 @@ ________________________________________________________________________________
 #### Python #Machine Learning #NLP #Numpy #Pandas #Matplotlib #Seaborn #Tableau #MySQL #MS Excel #Statistics #Beautiful Soup #Scikit learn
 
 ____________________________________________________________________________________________________________________________________________________________
+## Current status Quo
 
 - 🔭 I’m currently working on NLP, Machine Learning and deep learning
 - 🌱 I’m currently learning deep learning
