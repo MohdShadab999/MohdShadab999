@@ -4,7 +4,7 @@ I have gained good exposure to understand various aspects of Data Science throug
 _________________________________________________________________________________________________________________________________________________________
 
 ### Skills
-#### Python # Machine Learning # NLP #Numpy # Pandas # Matplotlib # Seaborn # Tableau # MySQL # MS Excel # Statistics #Beautiful Soup # Scikit learn
+#### Python #Machine Learning #NLP #Numpy #Pandas #Matplotlib #Seaborn #Tableau #MySQL #MS Excel #Statistics #Beautiful Soup #Scikit learn
 
 ____________________________________________________________________________________________________________________________________________________________
 
