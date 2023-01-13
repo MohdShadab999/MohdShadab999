@@ -1,9 +1,9 @@
 ### Hi there 👋
-I have gained good exposure to understand various aspects of Data Science through Masters program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
+Though i have found data science midway between my journey in construction since i took to pursue it i am getting passionate about it.I have gained good exposure to understand various aspects of Data Science through Masters program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement. 
 
 _________________________________________________________________________________________________________________________________________________________
 
-### Skills
+## Skills
 #### Python #Machine Learning #NLP #Numpy #Pandas #Matplotlib #Seaborn #Tableau #MySQL #MS Excel #Statistics #Beautiful Soup #Scikit learn
 
 ____________________________________________________________________________________________________________________________________________________________
@@ -16,6 +16,9 @@ ________________________________________________________________________________
 - 💬 Ask me about anything i will try my best
 - 📫 How to reach me: mohd.shadabaziz999@gmail.com
 - ⚡ Fun fact: 1.145 trillion megabytes of data are produced daily🤔
+
+### A fun project related to construction
+checkout my app : https://mohdshadab999-concretestrengthpredictor-app-lf4f8v.streamlit.app/
 
 <!--
 **MohdShadab999/MohdShadab999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
