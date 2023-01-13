@@ -1,13 +1,17 @@
 ### Hi there 👋
 I have gained good exposure to understand various aspects of Data Science through Masters program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
 
-###Skills
-#Python #Machine Learning #NLP #Numpy #Pandas #Matplotlib #Seaborn #Tableau #MySQL #MS Excel #Statistics
+_________________________________________________________________________________________________________________________________________________________
+
+### Skills
+#### Python # Machine Learning # NLP #Numpy # Pandas # Matplotlib # Seaborn # Tableau # MySQL # MS Excel # Statistics #Beautiful Soup # Scikit learn
+
+____________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on NLP, Machine Learning and deep learning
 - 🌱 I’m currently learning deep learning
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with good projects,datasets and data science material.
 - 💬 Ask me about anything i will try my best
 - 📫 How to reach me: mohd.shadabaziz999@gmail.com
 - ⚡ Fun fact: 1.145 trillion megabytes of data are produced daily🤔
