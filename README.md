@@ -6,7 +6,7 @@ I like to read novels, play badminton, cricket and board games.
 _________________________________________________________________________________________________________________________________________________________-
 
 ## Skills
-#### ✔ Python                ✔ Pandas 
+#### ✔ Python                ✔ Pandas                        
 #### ✔ Machine Learning      ✔ Matplotlib 
 #### ✔ NLP                   ✔ Seaborn
 #### ✔ Numpy                 ✔ Tableau 
@@ -34,7 +34,9 @@ ________________________________________________________________________________
 #### Connect here🌍
 Linkedin: https://www.linkedin.com/in/mohd-shadab-b17783135/
 Kaggle: https://www.kaggle.com/shadab999
+_____________________________________________________________________________________________________________________________________________________________-
 
+<img src="https://github-readme-stats.vercel.app/api?username=MohdShadab999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **MohdShadab999/MohdShadab999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
