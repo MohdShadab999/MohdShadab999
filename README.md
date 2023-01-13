@@ -3,7 +3,7 @@ Though i have found data science midway between my journey in construction since
 
 I like to read novels, play badminton, cricket and board games.
 
-_________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________-
 
 ## Skills
 #### ✔ Python                ✔ Pandas 
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 #### ✔ Statistics            ✔ Beautiful Soup 
 #### ✔ Scikit learn
 
-____________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________-
 ## Current status Quo
 
 - 🔭 I’m currently working on NLP, Machine Learning and deep learning
@@ -24,10 +24,13 @@ ________________________________________________________________________________
 - 💬 Ask me about anything i will try my best
 - 📫 How to reach me: mohd.shadabaziz999@gmail.com
 - ⚡ Fun fact: 1.145 trillion megabytes of data are produced daily😃👀
-
-### A fun ML project related to construction
+____________________________________________________________________________________________________________________________________________________________-
+### APPS
 checkout my app : https://mohdshadab999-concretestrengthpredictor-app-lf4f8v.streamlit.app/
-
+____________________________________________________________________________________________________________________________________________________________-
+### Blogs
+Medium : https://medium.com/@mohd.shadabaziz999/predicting-concrete-compressive-strength-using-machine-learning-12914a8f45a3
+____________________________________________________________________________________________________________________________________________________________-
 #### Connect here🌍
 Linkedin: https://www.linkedin.com/in/mohd-shadab-b17783135/
 Kaggle: https://www.kaggle.com/shadab999
