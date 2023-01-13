@@ -28,8 +28,9 @@ ________________________________________________________________________________
 ### A fun ML project related to construction
 checkout my app : https://mohdshadab999-concretestrengthpredictor-app-lf4f8v.streamlit.app/
 
-##Connect with me
-
+#### Connect here🌍
+Linkedin: https://www.linkedin.com/in/mohd-shadab-b17783135/
+Kaggle: https://www.kaggle.com/shadab999
 
 
 <!--
