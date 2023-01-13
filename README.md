@@ -1,10 +1,18 @@
 ### Hi, I am Mohd Shadab😊😁 👋
 Though i have found data science midway between my journey in construction since i took to pursue it i am getting passionate about it.I have gained good exposure to understand various aspects of Data Science through Masters program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement. 
 
+I like to read novels, play badminton, cricket and board games.
+
 _________________________________________________________________________________________________________________________________________________________
 
 ## Skills
-#### Python #Machine Learning #NLP #Numpy #Pandas #Matplotlib #Seaborn #Tableau #MySQL #MS Excel #Statistics #Beautiful Soup #Scikit learn
+#### ✔ Python                ✔ Pandas 
+#### ✔ Machine Learning      ✔ Matplotlib 
+#### ✔ NLP                   ✔ Seaborn
+#### ✔ Numpy                 ✔ Tableau 
+#### ✔ MySQL                 ✔ MS Excel 
+#### ✔ Statistics            ✔ Beautiful Soup 
+#### ✔ Scikit learn
 
 ____________________________________________________________________________________________________________________________________________________________
 ## Current status Quo
